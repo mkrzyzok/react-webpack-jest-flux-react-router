@@ -1,0 +1,15 @@
+{
+  "options": {
+    "sassDir": "app/styles",
+    "cssDir": "app/styles",
+    "javascriptsDir": "app/scripts",
+    "relativeAssets": false,
+    "assetCacheBuster": false,
+    "raw": "Sass::Script::Number.precision = 10\n"
+  },
+  "server": {
+    "options": {
+      "sourcemap": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "shoppingCart",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "~0.13.2"
+  },
+  "devDependencies": {
+    "react-router": "~0.13.3"
+  },
+  "appPath": "app",
+  "moduleName": "shoppingCart"
+}

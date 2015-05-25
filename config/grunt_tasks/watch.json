@@ -1,0 +1,10 @@
+{
+  "compass": {
+    "files": [
+      "app/styles/{,*/}*.{scss,sass}"
+    ],
+    "tasks": [
+      "compass:server"
+    ]
+  }
+}
